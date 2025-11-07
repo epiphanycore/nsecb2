@@ -67,9 +67,75 @@ const studentrecords = () =>{
                     <tr>
                         <Td>4</Td>
                         <Td>Raima Majumder</Td>
-                        <Td>Hemarun Mukherjee</Td>
-                        <Td>8420136171</Td>
-                        <Td>smukherjee@gmail.com</Td>
+                        <Td>Asish Majumder</Td>
+                        <Td>7596962497</Td>
+                        <Td>rm@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>5</Td>
+                        <Td>Shimantini Biswas</Td>
+                        <Td>Piyush Biswas</Td>
+                        <Td>7439063063</Td>
+                        <Td>sbiswas@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>In-Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>6</Td>
+                        <Td>Shubhamita Majumdar</Td>
+                        <Td>Sumitesh Majumdar</Td>
+                        <Td>9831303733</Td>
+                        <Td>shubhamitam@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>7</Td>
+                        <Td>Abhishek Ghosh</Td>
+                        <Td>Himayun Ghosh</Td>
+                        <Td>9873289021</Td>
+                        <Td>abhishekg@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>8</Td>
+                        <Td>Snigdha Saha</Td>
+                        <Td>Rajesh Saha</Td>
+                        <Td>7980389752</Td>
+                        <Td>ssaha@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>9</Td>
+                        <Td>Anushka Das</Td>
+                        <Td>Animesh Das</Td>
+                        <Td>7596962490</Td>
+                        <Td>anushkad@gmail.com</Td>
+                        <Td>Kolkata</Td>
+                        <Td>BCA</Td>
+                        <Td>2023-27</Td>
+                        <Td><button>Active</button></Td>
+                    </tr>
+                    <tr>
+                        <Td>10</Td>
+                        <Td>Shreya Ghosh</Td>
+                        <Td>Ashutosh Ghosh</Td>
+                        <Td>9876045673</Td>
+                        <Td>sghosh@gmail.com</Td>
                         <Td>Kolkata</Td>
                         <Td>BCA</Td>
                         <Td>2023-27</Td>
