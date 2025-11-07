@@ -7,6 +7,7 @@ import Third from './Components/Third'
 import Fourth from './Components/Fourth'
 import Fifth from './Components/Fifth'
 import Message from './Components/Message'
+import studentrecords from './Components/studentrecords'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
     <Fourth/>
     <Fifth/>
     <Message/>
+    <studentrecords/>
     </>
   ) 
 }
