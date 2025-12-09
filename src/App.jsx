@@ -1,24 +1,18 @@
 import React from 'react'
 import './App.css'
+import BrowserRouter as Router, routes
 
-import First from './Components/First'
-import Second from './Components/Second'
-import Third from './Components/Third'
-import Fourth from './Components/Fourth'
-import Message from './Components/Message'
+import Division from './Components/Division'
 
-function App() {
+const App = () => {
 
-  return (
+ return (
     <>
-    <First/>
-    <Second/>
-    <Third/>
-    <Fourth/>
-    <Message/> 
+       <Division/>
     </>
   ) 
 }
+
 
 // Main App Component
 // function App() {
@@ -58,6 +52,7 @@ function App() {
 // function MessageFive() {
 //   return <h2>🧠State and logic are often managed using Hooks (like useState and useEffect) within functional components.</h2>;
 // }
+
 
 export default App
 
