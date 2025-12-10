@@ -1,17 +1,16 @@
 import React from 'react'
 import './App.css'
-import BrowserRouter as Router, routes
 
-import Division from './Components/Division'
+// import Division from './Components/Division'
 
-const App = () => {
+// const App = () => {
 
- return (
-    <>
-       <Division/>
-    </>
-  ) 
-}
+//  return (
+//     <>
+//        <Division/>
+//     </>
+//   ) 
+// }
 
 
 // Main App Component
